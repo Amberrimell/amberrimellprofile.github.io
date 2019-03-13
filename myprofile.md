@@ -22,6 +22,6 @@ I chose RMIT because I needed the flexibility RMIT offers of online learning whi
 
 I expect to learn all the basics, and some specialized knowledge of everything IT. I don’t know exactly what I will learn, as I don’t know it exists yet, but I’m very excited to find out. I hope to learn all things code, and to have a deeper understanding of what all the different roles in the IT field are, so that I can better work towards what I want to do; video game programming. I would also love to learn more about robotics, AI, cyber security, and graphics.
 
-**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
+**Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
 
 [My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) [Personal Profile](https://amberrimell.github.io/introtoitassessment/personalprofile)
