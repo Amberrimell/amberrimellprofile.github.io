@@ -1,6 +1,6 @@
 My Profile
 
-<img src="https://github.com/Amberrimell/amberrimell.github.io/blob/master/picture%20for%20profile.jpg?raw=true" width="200" height="400"align="center"/>
+<img src="https://github.com/Amberrimell/amberrimell.github.io/blob/master/picture%20for%20profile.jpg?raw=true" width="200" height="400" align="center"/>
 
 Hello, and welcome to my My Profile Webpage. My name is Amber, and I am currently undertaking a Bachelor of IT part-time. I have a 1.5 year old, which is proving a challenge to juggle along with studying. I am a Kiwi, though I've been in Australia since I was 10. I write left-handed, but do everything else as a righty would. I like baking, and video games.
 
@@ -22,6 +22,6 @@ I chose RMIT because I needed the flexibility RMIT offers of online learning whi
 
 I expect to learn all the basics, and some specialized knowledge of everything IT. I don’t know exactly what I will learn, as I don’t know it exists yet, but I’m very excited to find out. I hope to learn all things code, and to have a deeper understanding of what all the different roles in the IT field are, so that I can better work towards what I want to do; video game programming. I would also love to learn more about robotics, AI, cyber security, and graphics.
 
-<align="center"**Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**>
+<align="center" **Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**>
 
 [My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) [Personal Profile](https://amberrimell.github.io/introtoitassessment/personalprofile)
