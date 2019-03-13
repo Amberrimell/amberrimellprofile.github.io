@@ -28,4 +28,4 @@ I think that I am much more suited for the backline in a team environment, suppo
 
 Amber Rimell  Student Number  Email
 
-[My Profile]() [My Ideal Job]()
+[My Profile](https://amberrimell.github.io/amberrimellprofile.github.io/myprofile) [My Ideal Job]()
