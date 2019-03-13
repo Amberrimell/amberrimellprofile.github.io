@@ -26,4 +26,4 @@ Currently, I would say that I am very adaptable and quick to learn. I am underta
 
 I plan to finish this Bachelor’s degree and immediately find employment in the realm of IT. I’m not sure what exactly I will be qualified to do at the end of the degree but I look forward to entering the industry, and finding out exactly what it is I need to do to further work towards my dream job. I imagine I will have to do some more specialised study in designing/programming.
 
-[My Profile](https://amberrimell.github.io/amberrimellprofile.github.io/myprofile) [Personal Profile](
+[My Profile](https://amberrimell.github.io/introtoitassessment/myprofile) [Personal Profile](https://amberrimell.github.io/introtoitassessment/personalprofile)
