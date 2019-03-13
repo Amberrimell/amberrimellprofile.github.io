@@ -1,6 +1,6 @@
 My Profile
 
-![me](https://github.com/Amberrimell/amberrimell.github.io/blob/master/picture%20for%20profile.jpg?raw=trues=700)
+<img src="https://github.com/Amberrimell/amberrimell.github.io/blob/master/picture%20for%20profile.jpg?raw=true" width="200" height="400"/>
 
 Hello, and welcome to my My Profile Webpage. My name is Amber, and I am currently undertaking a Bachelor of IT part-time. I have a 1.5 year old, which is proving a challenge to juggle along with studying. I am a Kiwi, though I've been in Australia since I was 10. I write left-handed, but do everything else as a righty would. I like baking, and video games.
 
