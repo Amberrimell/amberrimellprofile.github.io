@@ -30,4 +30,4 @@ I plan to finish this Bachelor’s degree and immediately find employment in the
 
 **Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
 
-[My Profile](https://amberrimell.github.io/introtoitassessment/myprofile) [Personal Profile](https://amberrimell.github.io/introtoitassessment/personalprofile) [My Project Idea]()
+[My Profile](https://amberrimell.github.io/introtoitassessment/myprofile) &nbsp;[Personal Profile](https://amberrimell.github.io/introtoitassessment/personalprofile) &nbsp;[My Project Idea](https://amberrimell.github.io/introtoitassessment/myprojectidea)
