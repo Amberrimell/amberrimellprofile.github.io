@@ -1,4 +1,4 @@
-Amber Rimell        Student Number: S3775604        Email: S3775604@student.rmit.edu.au
+**Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
 
 Personal Profile
 
@@ -28,6 +28,6 @@ I think that in a team all of these results show that I am very supportive and i
 
 I think that I am much more suited for the backline in a team environment, supporting the team from behind the scenes opposed to being in the spotlight. 
 
-Amber Rimell        Student Number: S3775604        Email: S3775604@student.rmit.edu.au
+**Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
 
-[My Profile](https://amberrimell.github.io/introtoitassessment/myprofile) [My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) [My Project Idea]()
+[My Profile](https://amberrimell.github.io/introtoitassessment/myprofile) [My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) [My Project Idea](https://amberrimell.github.io/introtoitassessment/myprojectidea)
