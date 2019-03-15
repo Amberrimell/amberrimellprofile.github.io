@@ -1,3 +1,5 @@
+**Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
+
 My Profile
 
 <img src="https://github.com/Amberrimell/amberrimell.github.io/blob/master/picture%20for%20profile.jpg?raw=true" width="200" height="400"/>
@@ -24,4 +26,4 @@ I expect to learn all the basics, and some specialized knowledge of everything I
 
 **Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
 
-[My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) [Personal Profile](https://amberrimell.github.io/introtoitassessment/personalprofile)
+[My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) [Personal Profile](https://amberrimell.github.io/introtoitassessment/personalprofile) [My Project Idea](https://amberrimell.github.io/introtoitassessment/myprojectidea)
