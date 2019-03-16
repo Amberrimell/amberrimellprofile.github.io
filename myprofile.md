@@ -1,6 +1,6 @@
 **Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
 
-**My Profile**
+#**My Profile**
 
 <img src="https://github.com/Amberrimell/amberrimell.github.io/blob/master/picture%20for%20profile.jpg?raw=true" width="200" height="400"/>
 
