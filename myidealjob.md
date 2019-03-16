@@ -1,6 +1,6 @@
 **Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
 
-**Ideal Job**
+# Ideal Job
 
 <img src="https://github.com/Amberrimell/amberrimell.github.io/blob/master/idealjob.png?raw=true" alt="Ideal Job Screenshot" width="600" height="600">
 
