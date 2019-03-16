@@ -30,4 +30,4 @@ I think that I am much more suited for the backline in a team environment, suppo
 
 **Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
 
-[My Profile](https://amberrimell.github.io/introtoitassessment/myprofile) &nbsp;[My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) &nbsp;[My Project Idea](https://amberrimell.github.io/introtoitassessment/myprojectidea)
+[My Profile](https://amberrimell.github.io/introtoitassessment/myprofile) &nbsp;[My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) &nbsp;[My Project](https://amberrimell.github.io/introtoitassessment/myprojectidea)
