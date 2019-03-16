@@ -26,4 +26,4 @@ I expect to learn all the basics, and some specialized knowledge of everything I
 
 **Amber Rimell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Number: S3775604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: S3775604@student.rmit.edu.au**
 
-[My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) &nbsp;[Personal Profile](https://amberrimell.github.io/introtoitassessment/personalprofile) &nbsp;[My Project Idea](https://amberrimell.github.io/introtoitassessment/myprojectidea)
+[My Ideal Job](https://amberrimell.github.io/introtoitassessment/myidealjob) &nbsp;[Personal Profile](https://amberrimell.github.io/introtoitassessment/personalprofile) &nbsp;[My Project](https://amberrimell.github.io/introtoitassessment/myprojectidea)
