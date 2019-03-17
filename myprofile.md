@@ -8,7 +8,7 @@ Hello, and welcome to my My Profile Webpage. My name is Amber, and I am currentl
 
 I have a love for computers, Playstations and all things tech, though not much experience. This is my very first time using Github, and I have to say it has been a bit confusing so far. Alas, here we are, and I _think_ I have figured it out. So, let's get into it.
 
-**Interest In IT**
+# Interest In IT
 
 **What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).**
 
