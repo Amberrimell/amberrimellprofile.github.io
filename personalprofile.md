@@ -12,7 +12,7 @@ The “What’s Your Learning Style?” Test has shown that I am a Visual learne
 
 **The results of one further online test of your choosing.**
 
-The DISC Personality test results state that I am, in order of most to least, Steady, Compliant, Influential, Dominant. They say that ‘You are determined to achieve objectives. You are a clear thinker. You like to pursue a definite course of action. You respond to logic rather than emotion.’ (DISC Personality test results page, para. 6). I very much agree with these statements.
+The DISC Personality test results state that I am - in order of most to least: Steady, Compliant, Influential, Dominant. They say that ‘You are determined to achieve objectives. You are a clear thinker. You like to pursue a definite course of action. You respond to logic rather than emotion.’ (DISC Personality test results page, para. 6). I very much agree with these statements.
 
 
 **What do the results of these tests mean for you?**
