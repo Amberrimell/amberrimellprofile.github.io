@@ -4,7 +4,7 @@
 
 **The results of an online Myers-Briggs test.**
 
-According to the 16 Personalities test, I am a Defender (ISFJ-A). I read through the results and found them to be quite accurate. (16 Personalities website).
+According to the 16 Personalities test, I am a Defender (ISFJ-A). (16 Personalities website). I read through the results and found them to be quite accurate.
 
 **The results of an online learning style test.**
 
