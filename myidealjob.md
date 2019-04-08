@@ -2,7 +2,7 @@
 
 # Ideal Job
 
-<img src="https://github.com/Amberrimell/amberrimell.github.io/blob/master/idealjob.png?raw=true" alt="Ideal Job Screenshot" width="600" height="600">
+<img src="https://github.com/Amberrimell/introtoitassessment/blob/master/idealjob.png" width="600" height="600">
 
 [Ideal Job link](https://www.ubisoft.com/en-US/careers/search.aspx#sr-post-id=743999684505222&is-redirect=true)
 
